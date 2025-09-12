@@ -9,7 +9,7 @@ Sure! Here's a concise summary of the SASS installation steps:
 3. **Install SASS**:  
    Run this command in your terminal:  
    ```bash
-   npm install sass@3.7.4
+   npm install -g sass
    ```
 
 4. **Document the Process**:  
