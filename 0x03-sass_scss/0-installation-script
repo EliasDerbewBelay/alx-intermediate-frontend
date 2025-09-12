@@ -1,0 +1,18 @@
+Sure! Here's a concise summary of the SASS installation steps:
+
+1. **Create Project Directory**:  
+   Inside your `alx-intermediate-frontend` repo, make a folder named `0x03-sass_scss`.
+
+2. **Install Node.js**:  
+   Download and install Node.js version 20.16 from the official site.
+
+3. **Install SASS**:  
+   Run this command in your terminal:  
+   ```bash
+   npm install sass@3.7.4
+   ```
+
+4. **Document the Process**:  
+   Create a file called `0-installation-script` and write down the steps you followed.
+
+
